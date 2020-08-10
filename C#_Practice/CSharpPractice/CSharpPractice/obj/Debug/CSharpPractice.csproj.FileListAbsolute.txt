@@ -1,0 +1,6 @@
+B:\C#\projects\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe.config
+B:\C#\projects\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe
+B:\C#\projects\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.pdb
+B:\C#\projects\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csprojAssemblyReference.cache
+B:\C#\projects\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.exe
+B:\C#\projects\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.pdb

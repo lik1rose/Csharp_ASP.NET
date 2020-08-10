@@ -1,0 +1,5 @@
+B:\C#\projects\Enums\Enums\bin\Debug\Enums.exe.config
+B:\C#\projects\Enums\Enums\bin\Debug\Enums.exe
+B:\C#\projects\Enums\Enums\bin\Debug\Enums.pdb
+B:\C#\projects\Enums\Enums\obj\Debug\Enums.exe
+B:\C#\projects\Enums\Enums\obj\Debug\Enums.pdb
